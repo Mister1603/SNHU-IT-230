@@ -1,0 +1,8 @@
+C:\Users\flowi\source\repos\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.exe.config
+C:\Users\flowi\source\repos\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.exe
+C:\Users\flowi\source\repos\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.pdb
+C:\Users\flowi\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.csproj.AssemblyReference.cache
+C:\Users\flowi\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.csproj.CoreCompileInputs.cache
+C:\Users\flowi\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.exe
+C:\Users\flowi\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.pdb
+C:\Users\flowi\source\repos\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.exe.config

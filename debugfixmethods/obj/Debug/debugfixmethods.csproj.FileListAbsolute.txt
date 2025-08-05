@@ -1,0 +1,8 @@
+C:\Users\flowi\source\repos\debugfixmethods\bin\Debug\debugfixmethods.exe.config
+C:\Users\flowi\source\repos\debugfixmethods\bin\Debug\debugfixmethods.exe
+C:\Users\flowi\source\repos\debugfixmethods\bin\Debug\debugfixmethods.pdb
+C:\Users\flowi\source\repos\debugfixmethods\obj\Debug\debugfixmethods.csproj.AssemblyReference.cache
+C:\Users\flowi\source\repos\debugfixmethods\obj\Debug\debugfixmethods.csproj.CoreCompileInputs.cache
+C:\Users\flowi\source\repos\debugfixmethods\obj\Debug\debugfixmethods.exe
+C:\Users\flowi\source\repos\debugfixmethods\obj\Debug\debugfixmethods.pdb
+C:\Users\flowi\source\repos\debugfixmethods\obj\Debug\debugfixmethods.exe.config

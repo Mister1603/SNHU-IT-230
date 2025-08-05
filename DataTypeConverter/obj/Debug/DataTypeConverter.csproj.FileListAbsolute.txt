@@ -1,0 +1,8 @@
+C:\Users\flowi\source\repos\DataTypeConverter\bin\Debug\DataTypeConverter.exe.config
+C:\Users\flowi\source\repos\DataTypeConverter\bin\Debug\DataTypeConverter.exe
+C:\Users\flowi\source\repos\DataTypeConverter\bin\Debug\DataTypeConverter.pdb
+C:\Users\flowi\source\repos\DataTypeConverter\obj\Debug\DataTypeConverter.csproj.AssemblyReference.cache
+C:\Users\flowi\source\repos\DataTypeConverter\obj\Debug\DataTypeConverter.csproj.CoreCompileInputs.cache
+C:\Users\flowi\source\repos\DataTypeConverter\obj\Debug\DataTypeConverter.exe
+C:\Users\flowi\source\repos\DataTypeConverter\obj\Debug\DataTypeConverter.pdb
+C:\Users\flowi\source\repos\DataTypeConverter\obj\Debug\DataTypeConverter.exe.config

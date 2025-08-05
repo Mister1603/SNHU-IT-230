@@ -1,0 +1,8 @@
+C:\Users\flowi\source\repos\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+C:\Users\flowi\source\repos\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+C:\Users\flowi\source\repos\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
+C:\Users\flowi\source\repos\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csproj.AssemblyReference.cache
+C:\Users\flowi\source\repos\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csproj.CoreCompileInputs.cache
+C:\Users\flowi\source\repos\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+C:\Users\flowi\source\repos\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb
+C:\Users\flowi\source\repos\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe.config
